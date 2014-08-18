@@ -84,17 +84,6 @@ describe 'blocks test' do
 			expect(inject_sum).to eq sum
 		end 
 
-		# strings
-
-
-		# hashes
-
-
-		# arrays
-
-
-
 	end
-
 
 end
